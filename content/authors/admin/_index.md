@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: M. Dylan Spencer
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Criminology and Criminal Justice Doctoral Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of South Carolina
+  url: "https://www.sc.edu/study/colleges_schools/artsandsciences/criminology_and_criminal_justice/index.php"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include spatial and quantitative methods, natural resource-based crime, evidence-based crime prevention, and policing.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Spatial analysis
+- Wildlife crime
+- Crime prevention
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Criminology and Criminal Justice
+    institution: University of South Carolina
+    year: Expected 2022
+  - course: MA in Criminal Justice
+    institution: Radford University
+    year: 2018
+  - course: BS in Natural Resource Conservation
+    institution: Virginia Tech
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: '#contact'  # For a direct email link, use "mailto:ms66@email.sc.edu".
+#- icon: twitter
+  #icon_pack: fab
+  #link: https://twitter.com/GeorgeCushen
+#- icon: google-scholar
+  #icon_pack: ai
+  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/m-dylanspencer
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,7 +64,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -73,6 +73,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+M. Dylan Spencer is a doctoral candidate in the Criminology and Criminal Justice Department at the University of South Carolina. His reserach interests include spatial and quantitative methodologies, natural resource-based crime, evidence-based crime prevention, and policing. He expects to complete his Ph.D. program in the spring of 2022.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
