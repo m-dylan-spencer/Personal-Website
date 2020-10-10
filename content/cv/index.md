@@ -16,9 +16,4 @@ header:
 
 Add your *content* here...
 
-#[[main]]
- # name = "My new page"  # A link title for your page.
-  #url = "example/"  # The URL of your page.
-  #weight = 50  # The position of your page in the menu.
-
-url = "https://drive.google.com/file/d/1LYeLRBnME7fPLZGIsbt7AsIgb69HG-_U/view?usp=sharing"
+"https://drive.google.com/file/d/1LYeLRBnME7fPLZGIsbt7AsIgb69HG-_U/view?usp=sharing"
