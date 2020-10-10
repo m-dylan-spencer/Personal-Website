@@ -30,7 +30,7 @@
   
 [[menu.main]]
   name = "CV"
-  url = "/Users/ms66/Desktop/cv.pdf"
+  url = "https://drive.google.com/drive/folders/1gRpjOwfILbYkw7WT1aALZulQh_q-1dxg"
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
