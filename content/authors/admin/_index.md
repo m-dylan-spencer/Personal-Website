@@ -54,7 +54,7 @@ social:
 - icon: github
   icon_pack: fab
   link: "https://github.com/m-dylan-spencer"
--icon: cv
+- icon: cv
   icon_pack: ai
   link: "https://drive.google.com/drive/folders/1gRpjOwfILbYkw7WT1aALZulQh_q-1dxg
 # Link to a PDF of your resume/CV from the About widget.
