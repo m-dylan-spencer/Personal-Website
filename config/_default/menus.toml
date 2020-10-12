@@ -34,3 +34,8 @@
    name = "CV"
    url = "files/cv.pdf"
    weight = 70
+   
+[[main]]
+  name = "<i class=\"fab fa-github\"></i> Github"
+  url = "https://github.com/jtlawren67"
+  weight = 50
