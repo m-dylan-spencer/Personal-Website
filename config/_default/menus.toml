@@ -31,8 +31,8 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
-   name = "CV"
-   url = "files/cv.pdf"
+  name = "<i class=\"fab fa-github\"></i> Github"
+   url = "https://www.researchgate.net/profile/Matthew_Spencer12"
    weight = 70
    
 #[[main]]
