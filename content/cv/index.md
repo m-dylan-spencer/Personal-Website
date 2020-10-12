@@ -7,7 +7,7 @@ reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
-url: https://drive.google.com/file/d/1LYeLRBnME7fPLZGIsbt7AsIgb69HG-_U/view?usp=sharing
+url: http://drive.google.com/file/d/1LYeLRBnME7fPLZGIsbt7AsIgb69HG-_U/view?usp=sharing
 
 # Optional header image (relative to `static/media/` folder).
 header:
