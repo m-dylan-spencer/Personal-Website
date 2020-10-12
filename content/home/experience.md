@@ -25,10 +25,10 @@ date_format = "Jan 2006"
   date_start = "2018-08-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Courses Taught:
   
-  * Teaching
-  * Research
+  * Policing
+  * Sociology of Crime
   """
 
 [[experience]]
@@ -39,10 +39,12 @@ date_format = "Jan 2006"
   date_start = "2016-08-01"
   date_end = "2018-05-01"
   description = """
-  Responsibilities include:
+  Courses GA'd:
   
-  * Teaching
-  * Research
+  * Wildlife Crime and Conservation Law Enforcement
+  * Courts and Criminal Process
+  * Deviant Sexual Behavior
+  * Rural Crime and Law Enforcement
   """
 
 +++
