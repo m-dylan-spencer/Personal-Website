@@ -1,16 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: TEST
+title: Exploring the Relationships between Fishing Regulations and Angler Compliance in Virginia
 subtitle: ''
 summary: ''
 authors:
 - M. Dylan Spencer
+- Egan K. Green
+- Riane M. Bolin
 tags: []
 categories: []
 date: '2020-10-11'
 lastmod: 2020-09-28T23:51:23+02:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -30,7 +32,7 @@ projects: []
 publishDate: '2020-09-28T21:51:22.316630Z'
 publication_types:
 - 2
-abstract: This is a test. 
+abstract: Accurate geographical awareness, species identification, and recognition of seasonal legal variations are typical constructs of fishing regulations. The combination of these factors makes understanding regulations a challenge, thus, making it difficult for anglers to abide by the law. The purpose of this exploratory study was to examine the relationship between angler fishing specialization, knowledge of fishing regulations, and compliance on two popular waterways in Virginia. An online survey was used to collect data from a sample of 326 licensed Virginia anglers. Two hypotheses were tested based on the regulatory knowledge of the anglers, their fishing specialization, and the likelihood they would comply with fishing regulations. Contrary to the hypothesized relationship, it was found that more specialized anglers had less regulatory knowledge. However, support was found between regulatory knowledge and angler likelihood of compliance. Limitations of this study, future research, and policy implications are also discussed.. 
 publication: '*American Journal of Criminal Justice*'
 url_pdf: http://link.springer.com/article/10.1007/s12103-020-09576-8
 doi: 10.1007/s12103-020-09576-8
