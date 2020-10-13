@@ -67,10 +67,4 @@ subtitle = ""
  css_class = ""
 +++
 
-#{{% callout note %}}
-#Quickly discover relevant content by [filtering publications](./publication/).
-#{{% /callout %}}
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/journal-article/_index.md" >}}).
-{{% /alert %}}
