@@ -29,6 +29,12 @@ date_format = "Jan 2006"
   
   * Policing
   * Sociology of Crime
+  
+  Courses GA'd
+  
+  * Analyzing Homicide
+  * Communities and Crime
+  * Policing
   """
 
 [[experience]]
