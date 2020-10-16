@@ -33,7 +33,7 @@ education:
   - course: MA in Criminal Justice
     institution: Radford University
     year: 2018
-  - course: BS in Natural Resource Conservation
+  - course: BS in Forest Resources and Environmental Conservation
     institution: Virginia Tech
     year: 2014
 
