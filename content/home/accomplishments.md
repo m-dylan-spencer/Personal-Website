@@ -46,6 +46,6 @@ date_format = "Jan 2006"
   #certificate_url = "https://www.radford.edu/content/chbs/home/criminal-justice.html"
   date_start = "2016-08-01"
   date_end = "2018-05-01"
-  description = "Earned a Post-Baccalaureate Certificate in crime analysis. Crime analysis is a criminal justice occupational field that engages in the systematic analysis of data from a wide variety of sources in order to provide information about the patterns and trends of crimes in a locality, state, or nation. The work product of a crime analyst can be used to inform tactical and strategic decision making, support investigative efforts, assist in the study of resource needs, and facilitate the development of criminal justice policy."
+  description = "Radford University's Post-Baccalaureate Certificate in Crime Analysis provides 15 hours of graduate-level coursework in crime analysis."
   
 +++
