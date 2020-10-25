@@ -38,14 +38,5 @@ date_format = "Jan 2006"
   date_end = "2020-08-01"
   description = "The Preparing Future Faculty (PFF) program is a professional development opportunity that provides assistance to graduate students and post-docs who want to become faculty members at the college level. PFF is a national program established by the Council of Graduate Schools, the Association of American Colleges and Universities, the Pew Charitable Trust and the National Science Foundation."
 
-[[item]]
-  organization = "Radford University College of Graduate Studies and Research"
-  organization_url = "https://www.radford.edu/content/grad/home/academics/certificates/crime-analysis.html"
-  title = "Crime Analysis Post-Baccalaureate Certificate"
-  url = ""
-  #certificate_url = "https://www.radford.edu/content/chbs/home/criminal-justice.html"
-  date_start = "2016-08-01"
-  date_end = "2018-05-01"
-  description = "Radford University's Post-Baccalaureate Certificate in Crime Analysis provides 15 hours of graduate-level coursework in crime analysis."
   
 +++
