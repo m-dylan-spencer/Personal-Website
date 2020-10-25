@@ -24,6 +24,7 @@ interests:
 - Spatial analysis
 - Wildlife crime
 - Crime prevention
+- Policing
 
 education:
   courses:
