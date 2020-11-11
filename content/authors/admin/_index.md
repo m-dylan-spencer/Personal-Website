@@ -84,5 +84,5 @@ user_groups:
 - Visitors
 ---
 
-M. Dylan Spencer is a doctoral candidate in the Criminology and Criminal Justice Department at the University of South Carolina. His reserach interests include spatial and quantitative methodologies, natural resource-based crime, evidence-based crime prevention, and policing. He expects to complete his Ph.D. program in the spring of 2022.
+M. Dylan Spencer is a doctoral candidate in the Criminology and Criminal Justice Department at the University of South Carolina. His research interests include spatial and quantitative methodologies, natural resource-based crime, evidence-based crime prevention, and policing. He expects to complete his Ph.D. program in the spring of 2022.
 
