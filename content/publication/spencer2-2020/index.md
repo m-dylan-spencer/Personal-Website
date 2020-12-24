@@ -1,16 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Exploring the Relationships between Fishing Regulations and Angler Compliance in Virginia
-subtitle: ''
+title: Wildlife Poaching on U.S. Federal Lands
+subtitle: A Problem-Solving Guide, Wilderness Problems, Guide No. 1
 summary: ''
 authors:
 - M. Dylan Spencer
-- Egan K. Green
-- Riane M. Bolin
 tags: []
 categories: []
-date: '2020-10-11'
+date: '2020-12-22'
 lastmod: 2020-09-28T23:51:23+02:00
 featured: true
 draft: false
@@ -32,8 +30,7 @@ projects: []
 publishDate: '2020-09-28T21:51:22.316630Z'
 publication_types:
 - 2
-abstract: Accurate geographical awareness, species identification, and recognition of seasonal legal variations are typical constructs of fishing regulations. The combination of these factors makes understanding regulations a challenge, thus, making it difficult for anglers to abide by the law. The purpose of this exploratory study was to examine the relationship between angler fishing specialization, knowledge of fishing regulations, and compliance on two popular waterways in Virginia. An online survey was used to collect data from a sample of 326 licensed Virginia anglers. Two hypotheses were tested based on the regulatory knowledge of the anglers, their fishing specialization, and the likelihood they would comply with fishing regulations. Contrary to the hypothesized relationship, it was found that more specialized anglers had less regulatory knowledge. However, support was found between regulatory knowledge and angler likelihood of compliance. Limitations of this study, future research, and policy implications are also discussed. 
-publication: '*American Journal of Criminal Justice*'
-url_pdf: http://link.springer.com/article/10.1007/s12103-020-09576-8
-doi: 10.1007/s12103-020-09576-8
+abstract: Problem-oriented policing (POP) is a concept for analyzing specific crime problems, implementing tailored interventions, and evaluating their success. While this process has largely been applied by urban police forces to reduce crime problems such as burglary of single-family houses, robbery at ATMs, and other forms of disorder, the process can be applied widely, including to problems in rural areas. Over the years, the Center for Problem-Oriented Policing has produced a collection of guides that help lead law enforcement agencies through the problem-solving process. This project is the first attempt to produce a guide for wildlife crime, namely poaching on protected federal lands in the United States. By combining the resources and knowledge of traditional POP practice and theory, the guide explores how wildlife protection agencies can restructure their thinking on poaching prevention by adopting a crime specific approach to problem-solving. Keeping with the specificity aspect of POP, this guide does not cover wildlife poaching outside of the United States, the illegal trade in wildlife products, or wildlife poaching on private or state lands. The guide is meant to be a useful tool for anyone working in conservation law enforcement or wildlife conservation.  
+publication: '*Center For Problem Oriented Policing*'
+url_pdf: https://popcenter.asu.edu/sites/default/files/wildlife_pop_guide_mds_final_v2_aml.pdf
 ---
