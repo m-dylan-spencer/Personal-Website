@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: Expanding Research on Investigations of Officer-Involved Shootings
-subtitle: 'An Experimental Evaluation of Question Timing on Police Officers Memory Recall'
+subtitle: An Experimental Evaluation of Question Timing on Police Officers' Memory Recall
 summary: ''
 authors:
 - Cory Schnell
