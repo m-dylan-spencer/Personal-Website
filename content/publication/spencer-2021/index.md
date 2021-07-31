@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2022-07-31'
-lastmod: 
+lastmod: 2021-07-31T23:51:23+02:00
 featured: true
 draft: false
 
