@@ -1,15 +1,20 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Wildlife Poaching on U.S. Federal Lands
-subtitle: A Problem-Solving Guide, Wilderness Problems, Guide No. 1
+title: Expanding Research on Investigations of Officer-Involved Shootings
+subtitle: An Experimental Evaluation of Question Timing on Police Officers' Memory Recall
 summary: ''
 authors:
+- Cory Schnell
 - M. Dylan Spencer
+- ashley Mancik
+- Louise E. Porter
+- Justin Ready
+- Geoffrey P. Alpert
 tags: []
 categories: []
-date: '2020-12-22'
-lastmod: 2020-09-28T23:51:23+02:00
+date: '2021-07-31'
+lastmod: 2021-07-31T23:51:23+02:00
 featured: true
 draft: false
 
