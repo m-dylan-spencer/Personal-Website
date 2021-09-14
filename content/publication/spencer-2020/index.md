@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-28T21:51:22.316630Z'
+publishDate: '2021-09-10T21:51:22.316630Z'
 publication_types:
 - 2
 abstract: Accurate geographical awareness, species identification, and recognition of seasonal legal variations are typical constructs of fishing regulations. The combination of these factors makes understanding regulations a challenge, thus, making it difficult for anglers to abide by the law. The purpose of this exploratory study was to examine the relationship between angler fishing specialization, knowledge of fishing regulations, and compliance on two popular waterways in Virginia. An online survey was used to collect data from a sample of 326 licensed Virginia anglers. Two hypotheses were tested based on the regulatory knowledge of the anglers, their fishing specialization, and the likelihood they would comply with fishing regulations. Contrary to the hypothesized relationship, it was found that more specialized anglers had less regulatory knowledge. However, support was found between regulatory knowledge and angler likelihood of compliance. Limitations of this study, future research, and policy implications are also discussed. 
