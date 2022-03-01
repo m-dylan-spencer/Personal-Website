@@ -57,13 +57,6 @@ date_format = "Jan 2006"
   location = "Radford, Virginia"
   date_start = "2016-08-01"
   date_end = "2018-05-01"
-  description = """
-  Courses GA'd:
+  description = ""
   
-  * Wildlife Crime and Conservation Law Enforcement
-  * Courts and Criminal Process
-  * Deviant Sexual Behavior
-  * Rural Crime and Law Enforcement
-  """
-
 +++
