@@ -19,10 +19,10 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[item]]
   organization = "Office of the Vice President for Research, University of South Carolina"
-  organization_url = "https://www.sc.edu/about/signature_events/discover_uofsc/about/news/2021/20210428_DUofSC_2021_Winners.php"
+  organization_url = ""
   title = "Graduate Student Presenter Award Recipient"
   url = ""
-  #certificate_url = ""
+  certificate_url = "https://www.sc.edu/about/signature_events/discover_uofsc/about/news/2021/20210428_DUofSC_2021_Winners.php"
   date_start = "2021-04-01"
   date_end = ""
   description = ""
