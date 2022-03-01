@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Grant: Public Transportation and Crime"
   url = ""
   #certificate_url = "https://sc.edu/about/offices_and_divisions/research/internal_funding_awards/students/sparc/sparcrecipients.php"
-  date_start = "2020-05-15"
-  date_end = "2021-05-15"
+  date_start = "May 2021"
+  date_end = ""
   description = "Awarded $5,000 to study the effects of new train stations openings on local crime in Charlotte, NC"
   
 [[item]]
