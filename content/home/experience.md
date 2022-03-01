@@ -18,12 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Graduate Teaching Assistant"
+  title = "Adjunct Instructor"
+  company = "Radford University, Dept. of Criminal Justice"
+  company_url = "https://www.radford.edu/content/chbs/home/criminal-justice.html"
+  location = "Radford, Virginia"
+  date_start = "2022-01-01"
+  date_end = "2022-05-01"
+  description = """
+  Courses Taught:
+  
+  * Research Methods
+  """
+  
+[[experience]]
+  title = "Instructor of Record"
   company = "University of South Carolina, Dept. of Criminology and Criminal Justice"
   company_url = "https://www.sc.edu/study/colleges_schools/artsandsciences/criminology_and_criminal_justice/index.php"
   location = "Columbia, South Carolina"
   date_start = "2018-08-01"
-  date_end = ""
+  date_end = "2022-05-01"
   description = """
   Courses Taught:
   
