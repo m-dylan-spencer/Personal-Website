@@ -28,16 +28,16 @@ interests:
 
 education:
   courses:
-  - course: PhD in Criminology and Criminal Justice
+  - course: Ph.D. in Criminology and Criminal Justice
     institution: University of South Carolina
     year: Expected 2022
-  - course: MA in Criminal Justice
+  - course: M.A. in Criminal Justice
     institution: Radford University
     year: 2018
   - course: Post-Baccalaureate Certificate in Crime Analysis
     institution: Radford University
     year: 2018  
-  - course: BS in Forest Resources and Environmental Conservation
+  - course: B.S. in Forest Resources and Environmental Conservation
     institution: Virginia Tech
     year: 2014
 
