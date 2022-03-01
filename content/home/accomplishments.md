@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   title = "Preparing Future Faculty Credential"
   url = ""
   #certificate_url = "https://sc.edu/about/offices_and_divisions/cte/graduate_teaching_assistants/preparing_future_faculty/pff_credential_awards/index.php"
-  date_start = "2018-08-01"
+  date_start = "Aug 2020"
   date_end = ""
   description = "The Preparing Future Faculty (PFF) program is a professional development opportunity that provides assistance to graduate students and post-docs who want to become faculty members at the college level. PFF is a national program established by the Council of Graduate Schools, the Association of American Colleges and Universities, the Pew Charitable Trust and the National Science Foundation."
 
