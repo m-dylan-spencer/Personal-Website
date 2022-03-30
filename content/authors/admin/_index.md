@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Criminology and Criminal Justice
+  - course: Ph.D. in Criminology & Criminal Justice
     institution: University of South Carolina
     year: 2022
   - course: M.A. in Criminal Justice
