@@ -58,6 +58,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: "https://orcid.org/0000-0001-9805-0986"
+- icon: publons
+  icon_pack: ai
+  link: "https://publons.com/researcher/4806810/matthew-dylan-spencer/
 - icon: researchgate
   icon_pack: ai
   link: "https://www.researchgate.net/profile/Matthew_Spencer12"
