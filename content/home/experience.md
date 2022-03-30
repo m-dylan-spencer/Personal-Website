@@ -49,14 +49,5 @@ date_format = "Jan 2006"
   * Communities and Crime
   * Policing
   """
-
-[[experience]]
-  title = "Graduate Assistant"
-  company = "Radford University, Dept. of Criminal Justice"
-  company_url = "https://www.radford.edu/content/chbs/home/criminal-justice.html"
-  location = "Radford, Virginia"
-  date_start = "2016-08-01"
-  date_end = "2018-05-01"
-  description = ""
   
 +++
