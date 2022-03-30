@@ -33,9 +33,6 @@ education:
     year: 2022
   - course: M.A. in Criminal Justice
     institution: Radford University
-    year: 2018
-  - course: Post-Baccalaureate Certificate in Crime Analysis
-    institution: Radford University
     year: 2018  
   - course: B.S. in Forest Resources and Environmental Conservation
     institution: Virginia Tech
