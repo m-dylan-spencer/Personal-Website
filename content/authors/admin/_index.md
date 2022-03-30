@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Criminology and Criminal Justice Doctoral Candidate
+role: Criminology and Criminal Justice Graduate Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.sc.edu/study/colleges_schools/artsandsciences/criminology_and_criminal_justice/index.php"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include spatial and quantitative methods, natural resource-based crime, evidence-based crime prevention, and policing.
+bio: My research interests include spatial and quantitative methods, natural resource crime, evidence-based crime prevention, and policing.
 
 interests:
 - Spatial analysis
@@ -30,7 +30,7 @@ education:
   courses:
   - course: Ph.D. in Criminology and Criminal Justice
     institution: University of South Carolina
-    year: Expected 2022
+    year: 2022
   - course: M.A. in Criminal Justice
     institution: Radford University
     year: 2018
