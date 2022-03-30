@@ -25,9 +25,6 @@ date_format = "Jan 2006"
   date_start = "2022-01-01"
   date_end = "2022-05-01"
   description = """
-  Courses Taught:
-  
-  * Research Methods
   """
   
 [[experience]]
@@ -38,16 +35,6 @@ date_format = "Jan 2006"
   date_start = "2018-08-01"
   date_end = "2022-05-01"
   description = """
-  Courses Taught:
-  
-  * Policing
-  * Sociology of Crime
-  
-  Courses GA'd
-  
-  * Analyzing Homicide
-  * Communities and Crime
-  * Policing
   """
   
 +++
