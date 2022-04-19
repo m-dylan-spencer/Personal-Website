@@ -1,6 +1,6 @@
 ---
 # Display name
-title: M. Dylan Spencer
+title: M. Dylan Spencer, Ph.D.
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Criminology and Criminal Justice Graduate Assistant
+role: Assistant Professor (Incoming Fall 2022)
 
 # Organizations/Affiliations
 organizations:
-- name: University of South Carolina
-  url: "https://www.sc.edu/study/colleges_schools/artsandsciences/criminology_and_criminal_justice/index.php"
+- name: South Dakota State University
+  url: "https://www.sdstate.edu/school-psychology-sociology-and-rural-studies"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include spatial and quantitative methods, natural resource crime, evidence-based crime prevention, and policing.
+bio: My research interests include spatial and quantitative methods, wildlife crime, evidence-based crime prevention, and policing.
 
 interests:
 - Spatial analysis
@@ -83,6 +83,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Ian T. Adams is an incoming Assistant Professor in the Department of Criminology & Criminal Justice at the University of South Carolina.
 
-M. Dylan Spencer is a graduate assistant in the Criminology and Criminal Justice Department at the University of South Carolina. His research interests include spatial and quantitative methodologies, natural resource crime, evidence-based crime prevention, and policing. He successfully defended his dissertation and will graduate in May of 2022. 
+M. Dylan Spencer is an incoming Assistant Professor of Criminology in the School of Psychology, Sociology and Rural Studies at South Dakota State University. His research interests include spatial and quantitative methodologies, wildlife crime, evidence-based crime prevention, and policing. He successfully defended his dissertation and will graduate in May of 2022. 
 
