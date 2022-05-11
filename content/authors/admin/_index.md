@@ -84,5 +84,5 @@ user_groups:
 - Visitors
 ---
 
-M. Dylan Spencer is an incoming Assistant Professor of Criminology in the School of Psychology, Sociology and Rural Studies at South Dakota State University. His research interests include spatial and quantitative methodologies, wildlife crime, evidence-based crime prevention, and policing. He successfully defended his dissertation and will graduate in May of 2022. 
+M. Dylan Spencer is an incoming Assistant Professor of Criminology in the School of Psychology, Sociology and Rural Studies at South Dakota State University. His research interests include spatial and quantitative methodologies, wildlife crime, evidence-based crime prevention, and policing. 
 
