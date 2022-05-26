@@ -93,14 +93,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1305 Greene St", city = "Columbia", region = "SC", postcode = "29208", country = "United States", country_code = "US"}
+address = {street = "1400 North Campus Dr.", city = "Brookings", region = "ND", postcode = "57007", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "33.997888", longitude = "-81.027172"}
+coordinates = {latitude = "44.319004", longitude = "-96.782410"}
 
 # Directions for visitors to locate you.
-directions = "Enter Currell College and take the stairs to Office 212 on Floor 2"
+directions = "Enter the left entrance (closest to library) of Agricultural Engineering and take the stairs to Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
