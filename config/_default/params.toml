@@ -100,7 +100,7 @@ address = {street = "1400 North Campus Dr.", city = "Brookings", region = "ND", 
 coordinates = {latitude = "44.319004", longitude = "-96.782410"}
 
 # Directions for visitors to locate you.
-directions = "Enter the left entrance (closest to library) of Agricultural Engineering and take the stairs to Floor 2"
+directions = "Enter the left entrance (closest to library) of Agricultural Engineering and take the stairs to Floor 2."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
