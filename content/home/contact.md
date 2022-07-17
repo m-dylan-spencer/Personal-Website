@@ -8,12 +8,6 @@ weight = 130  # Order that this section will appear.
 title = "Contact"
 subtitle = ""
 
-content:
-  form:
-    provider: formspree
-    formspree:
-      id: (https://formspree.io/f/xpzbvzrl)
-
 # Automatically link email and phone?
 autolink = true
 
