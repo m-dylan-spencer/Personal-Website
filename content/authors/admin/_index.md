@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor (Incoming Fall 2022)
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:ms66@email.sc.edu".
+  link: '#contact'  # For a direct email link, use "mailto:matthew.d.spencer@sdstate.edu".
 #- icon: twitter
   #icon_pack: fab
   #link: https://twitter.com/GeorgeCushen
@@ -84,5 +84,5 @@ user_groups:
 - Visitors
 ---
 
-M. Dylan Spencer is an incoming Assistant Professor of Criminology in the School of Psychology, Sociology and Rural Studies at South Dakota State University. His research interests include spatial and quantitative methodologies, wildlife crime, evidence-based crime prevention, and policing. 
+M. Dylan Spencer is an Assistant Professor of Criminology in the School of Psychology, Sociology and Rural Studies at South Dakota State University. His research interests include spatial and quantitative methodologies, wildlife crime, evidence-based crime prevention, and policing. 
 
