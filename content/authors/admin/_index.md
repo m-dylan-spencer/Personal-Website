@@ -84,5 +84,5 @@ user_groups:
 - Visitors
 ---
 
-Dr. Dylan Spencer is an assistant professor in the School of Psychology, Sociology, and Rural Studies. His primary research focuses on the geography of crime. He applies this focus to other research areas such as wildlife crime, evidence-based crime prevention, and policing. As a quantitative researcher, Dr. Spencer works extensively with large datasets from a variety of agencies and organizations. His research has utilized a wide range of analytic techniques, both spatial and non-spatial. The following analyses and research designs are a few examples he has used: a meta-analysis, multi-level models, machine learning, and occupancy models.
+Dr. Dylan Spencer is an assistant professor in the School of Psychology, Sociology, and Rural Studies at South Dakota State University. His primary research focuses on the geography of crime. He applies this focus to other research areas such as wildlife crime, evidence-based crime prevention, and policing. As a quantitative researcher, Dr. Spencer works extensively with large datasets from a variety of agencies and organizations. His research has utilized a wide range of analytic techniques, both spatial and non-spatial. The following analyses and research designs are a few examples he has used: a meta-analysis, multi-level models, machine learning, and occupancy models.
 
