@@ -1,14 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Wildlife Poaching on U.S. Federal Lands
-subtitle: A Problem-Solving Guide, Wilderness Problems, Guide No. 1
+title: Reinvestigating the relationship between cities and the spatial distribution of robbery
+subtitle: A tale of eight cities
 summary: ''
 authors:
 - M. Dylan Spencer
+- Cory Schnell
 tags: []
 categories: []
-date: '2020-12-22'
+date: '2022-11-02'
 lastmod: 2020-09-28T23:51:23+02:00
 featured: true
 draft: false
@@ -27,10 +28,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-28T21:51:22.316630Z'
+publishDate: '2022-11-02T21:51:22.316630Z'
 publication_types:
 - 2
-abstract: Problem-oriented policing (POP) is a concept for analyzing specific crime problems, implementing tailored interventions, and evaluating their success. While this process has largely been applied by urban police forces to reduce crime problems such as burglary of single-family houses, robbery at ATMs, and other forms of disorder, the process can be applied widely, including to problems in rural areas. Over the years, the Center for Problem-Oriented Policing has produced a collection of guides that help lead law enforcement agencies through the problem-solving process. This project is the first attempt to produce a guide for wildlife crime, namely poaching on protected federal lands in the United States. By combining the resources and knowledge of traditional POP practice and theory, the guide explores how wildlife protection agencies can restructure their thinking on poaching prevention by adopting a crime specific approach to problem-solving. Keeping with the specificity aspect of POP, this guide does not cover wildlife poaching outside of the United States, the illegal trade in wildlife products, or wildlife poaching on private or state lands. The guide is meant to be a useful tool for anyone working in conservation law enforcement or wildlife conservation.  
-publication: '*Center For Problem-Oriented Policing*'
-url_pdf: https://popcenter.asu.edu/sites/default/files/wildlife_pop_guide_mds_final_v2_aml.pdf
+abstract: '*Purpose*' The law of crime concentration suggests cities have almost no impact on the spatial distribution of crime. This study reinvestigates the relationship between cities and the distribution of crime across the various micro-places and neighborhoods which compose these locations.
+'*Methods*': We observed robbery incidents reported to police departments across eight U.S. cities from 2015 to 2019. We calculated the spatial variability of the distribution of robberies attributed tocensus blocks (i.e., micro-places), census tracts (i.e., neighborhoods), and cities (i.e., macro-places) using variance partitioning techniques with multi-level negative binomial regression models.
+'*Results*': Our findings are mixed on the relationship between cities and the spatial distribution of robbery incidents. The descriptive analyses suggest a moderate influence of cities on measures of crime concentration. One of our modeling strategies estimates a larger impact while another strategy observes almost no contribution of cities to the total spatial variability.
+'*Conclusions*': This study supports previous research which demonstrates there are overwhelming similarities in the distribution of crime between cities and micro-places account for most of the spatial variability of patterns. While cities do not appear to have a major influence on distributions, future research should continue to clarify these mixed findings and provide a more compelling theoretical account of this relationship.
+publication: '*Journal of Criminal Justice*'
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0047235222001234?via%3Dihub
+doi: https://doi.org/10.1016/j.jcrimjus.2022.102003
 ---
