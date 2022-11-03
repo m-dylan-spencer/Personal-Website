@@ -31,13 +31,7 @@ projects: []
 publishDate: '2022-11-02T21:51:22.316630Z'
 publication_types:
 - 2
-abstract: *Purpose* The law of crime concentration suggests cities have almost no impact on the spatial distribution of crime. This study reinvestigates the relationship between cities and the distribution of crime across the various micro-places and neighborhoods which compose these locations.
-
-*Methods* We observed robbery incidents reported to police departments across eight U.S. cities from 2015 to 2019. We calculated the spatial variability of the distribution of robberies attributed tocensus blocks (i.e., micro-places), census tracts (i.e., neighborhoods), and cities (i.e., macro-places) using variance partitioning techniques with multi-level negative binomial regression models.
-
-*Results* Our findings are mixed on the relationship between cities and the spatial distribution of robbery incidents. The descriptive analyses suggest a moderate influence of cities on measures of crime concentration. One of our modeling strategies estimates a larger impact while another strategy observes almost no contribution of cities to the total spatial variability.
-
-*Conclusions* This study supports previous research which demonstrates there are overwhelming similarities in the distribution of crime between cities and micro-places account for most of the spatial variability of patterns. While cities do not appear to have a major influence on distributions, future research should continue to clarify these mixed findings and provide a more compelling theoretical account of this relationship.
+abstract: The timing of an investigation after an officer-involved shooting (OIS) is influenced by conflicting forces. The public demands expedited resolution, but police officers are provided several protections that can delay investigations of their actions. This study conducts a randomized experiment to determine the impact of question timing after an OIS on the accu- racy of police officers’ memory recall. Officers were randomly assigned to one of two groups. The treatment group completed a questionnaire after participating in a live-action, active shooter training scenario and again 2 days later, whereas the control group only completed the questionnaire 2 days later. Our findings suggest the timing of interviews after training did not influence officers’ recall of the scenario. There is little empirical understanding of how police officers reconstruct OIS events; further interdisciplinary research can help clarify these cognitive processes. This research could strengthen a traditional pathway to provide accountability for officers through investigations.
 publication: '*Journal of Criminal Justice*'
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0047235222001234?via%3Dihub
 doi: https://doi.org/10.1016/j.jcrimjus.2022.102003
