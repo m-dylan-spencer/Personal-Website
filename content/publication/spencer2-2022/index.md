@@ -1,15 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Reinvestigating the relationship between cities and the spatial distribution of robbery
-subtitle: A tale of eight cities
+title: The role of neighborhoods in the age of crime hot spots
+subtitle: A multi-level theory of the spatial distribution of robbery in Chicago
 summary: ''
 authors:
-- M. Dylan Spencer
 - Cory Schnell
+- Samuel E. DeWitt
+- M. Dylan Spencer
 tags: []
 categories: []
-date: '2022-11-02'
+date: '2022-12-12'
 lastmod: 2020-09-28T23:51:23+02:00
 featured: true
 draft: false
@@ -31,8 +32,8 @@ projects: []
 publishDate: '2022-11-02T21:51:22.316630Z'
 publication_types:
 - 2
-abstract: Purpose- The law of crime concentration suggests cities have almost no impact on the spatial distribution of crime. This study reinvestigates the relationship between cities and the distribution of crime across the various micro-places and neighborhoods which compose these locations. Methods- We observed robbery incidents reported to police departments across eight U.S. cities from 2015 to 2019. We calculated the spatial variability of the distribution of robberies attributed to census blocks (i.e., micro-places), census tracts (i.e., neighborhoods), and cities (i.e., macro-places) using variance partitioning techniques with multi-level negative binomial regression models. Results- Our findings are mixed on the relationship between cities and the spatial distribution of robbery incidents. The descriptive analyses suggest a moderate influence of cities on measures of crime concentration. One of our modeling strategies estimates a larger impact while another strategy observes almost no contribution of cities to the total spatial variability. Conclusions- This study supports previous research which demonstrates there are overwhelming similarities in the distribution of crime between cities and micro-places account for most of the spatial variability of patterns. While cities do not appear to have a major influence on distributions, future research should continue to clarify these mixed findings and provide a more compelling theoretical account of this relationship.
-publication: '*Journal of Criminal Justice*'
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0047235222001234?via%3Dihub
-doi: https://doi.org/10.1016/j.jcrimjus.2022.102003
+abstract: This study observes the spatial distribution of robbery using a multi-level framework to further understand the unique contribution of both micro- places and neighborhoods to the spatial variability of crime patterns. Mixed- effects regression models were estimated to determine if the influence of spatial interdependence measured with a spatial lag variable at street segments had a random effect between Chicago’s community areas. The variance parameters guided an exploratory spatial data analysis which revealed clusters of robbery patterns which were larger than crime hot spots and often nested within neighborhoods. We found there is an important distinction between places in Chicago where the spatial transmissibility of robberies is most acutely experienced across entire neighborhoods or within the immediate proximity of certain micro-places.
+publication: '*Crime & Delinquency*'
+url_pdf: https://journals.sagepub.com/doi/10.1177/00111287221140836
+doi: https://doi.org/10.1177/00111287221140836
 ---
