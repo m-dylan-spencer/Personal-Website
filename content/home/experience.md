@@ -37,14 +37,4 @@ date_format = "Jan 2006"
   description = """
   """
   
-[[experience]]
-  title = "Instructor of Record"
-  company = "University of South Carolina, Dept. of Criminology and Criminal Justice"
-  company_url = "https://www.sc.edu/study/colleges_schools/artsandsciences/criminology_and_criminal_justice/index.php"
-  location = "Columbia, South Carolina"
-  date_start = "2018-08-01"
-  date_end = "2022-05-01"
-  description = """
-  """
-  
 +++
