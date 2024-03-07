@@ -18,11 +18,11 @@ organizations:
   url: "https://www.sdstate.edu/school-psychology-sociology-and-rural-studies"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include spatial and quantitative methods, wildlife crime, evidence-based crime prevention, and policing.
+bio: My research areas include conservation criminology and spatial and quantitative methods.
 
 interests:
+- Conservation criminology
 - Spatial analysis
-- Wildlife crime
 - Crime prevention
 - Policing
 
@@ -58,9 +58,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: "https://orcid.org/0000-0001-9805-0986"
-- icon: publons
-  icon_pack: ai
-  link: "https://publons.com/researcher/4806810/matthew-dylan-spencer/"
+#- icon: publons
+  #icon_pack: ai
+  #link: "https://publons.com/researcher/4806810/matthew-dylan-spencer/"
 - icon: researchgate
   icon_pack: ai
   link: "https://www.researchgate.net/profile/Matthew_Spencer12"
@@ -69,7 +69,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: "https://drive.google.com/file/d/1ZLwnKEG4f83XX1NWVA2QxrfHgKbRsH3j/view?usp=sharing"
+  link: "https://drive.google.com/file/d/17ISxjCcSaON2N3UELRUcUY6vgXv7x8W4/view?usp=share_link"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -84,5 +84,9 @@ user_groups:
 - Visitors
 ---
 
-Dr. Dylan Spencer is an assistant professor of criminology in the School of Psychology, Sociology, and Rural Studies at South Dakota State University. His primary research interest is the geography of crime. He applies this focus to other research areas such as wildlife crime, evidence-based crime prevention, and policing. As a quantitative researcher, Dr. Spencer works extensively with large datasets from a variety of agencies and organizations. His research has utilized a wide range of analytic techniques, both spatial and non-spatial.
+Dr. Dylan Spencer is an assistant professor of criminology in the School of Psychology, Sociology, and Rural Studies at South Dakota State University. His research primarily focuses on conservation-related crime, with a keen interest in applying spatial and quantitative methodologies to address various aspects of this field. His areas of expertise encompass wildlife crime, illegal, unreported, and unregulated (IUU) fishing, evidence-based crime prevention, and the development of equitable and effective policing strategies.
+
+As a quantitative researcher, Dr. Spencer extensively works with large datasets sourced from diverse agencies and organizations. He employs a wide array of analytical techniques, both spatial and non-spatial, to derive insights and draw conclusions from these datasets. His research contributions not only shed light on the dynamics of conservation-related crime but also inform policy interventions aimed at mitigating its impacts.
+
+Through his interdisciplinary approach, Dr. Spencer seeks to bridge the gap between criminology and conservation science, contributing to a deeper understanding of the complex interactions between human behavior and environmental degradation. His work holds significant implications for wildlife conservation efforts and the sustainability of natural resources.
 
