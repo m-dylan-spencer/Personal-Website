@@ -19,22 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Assistant Professor"
-  company = "South Dakota State University, School of Psychology, Sociology and Rural Studies"
-  company_url = "https://www.sdstate.edu/school-psychology-sociology-and-rural-studies"
-  location = "Brookings, South Dakota"
-  date_start = "2022-08-01"
+  company = "Georgia Southern University, Dept. of Criminal Justice & Criminology"
+  company_url = "https://www.georgiasouthern.edu/cbss/justice/"
+  location = "Statesboro, Georgia"
+  date_start = "2024-08-01"
   date_end = ""
   description = """
   """
   
-[[experience]]
-  title = "Adjunct Instructor"
-  company = "Radford University, Dept. of Criminal Justice"
-  company_url = "https://www.radford.edu/content/chbs/home/criminal-justice.html"
-  location = "Radford, Virginia"
-  date_start = "2022-01-01"
-  date_end = "2022-05-01"
+  [[experience]]
+  title = "Assistant Professor"
+  company = "South Dakota State University, School of Psychology, Sociology and Rural Studies"
+  company_url = "https://www.sdstate.edu/school-psychology-sociology-and-rural-studies"
+  location = "Brookings, South Dakota"
+  date_start = "2022-08-01"
+  date_end = "2024-05-01"
   description = """
   """
+
   
 +++
