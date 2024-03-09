@@ -84,9 +84,6 @@ user_groups:
 - Visitors
 ---
 
-Dr. Dylan Spencer is an assistant professor of criminology in the School of Psychology, Sociology, and Rural Studies at South Dakota State University. His research primarily focuses on conservation-related crime, with a keen interest in applying spatial and quantitative methodologies to address various aspects of this field. His areas of expertise encompass wildlife crime, illegal, unreported, and unregulated (IUU) fishing, evidence-based crime prevention, and the development of equitable and effective policing strategies.
+Dr. Dylan Spencer, an assistant professor at South Dakota State University, specializes in criminology with a focus on conservation-related crime. He utilizes spatial and quantitative methods to understand and address issues in this field, emphasizing prevention rather than explanation. Through interdisciplinary research, he seeks to connect criminology with conservation science, providing insights into the relationship between human behavior and environmental damage. 
 
-As a quantitative researcher, Dr. Spencer extensively works with large datasets sourced from diverse agencies and organizations. He employs a wide array of analytical techniques, both spatial and non-spatial, to derive insights and draw conclusions from these datasets. His research contributions not only shed light on the dynamics of conservation-related crime but also inform policy interventions aimed at mitigating its impacts.
-
-Through his interdisciplinary approach, Dr. Spencer seeks to bridge the gap between criminology and conservation science, contributing to a deeper understanding of the complex interactions between human behavior and environmental degradation. His work holds significant implications for wildlife conservation efforts and the sustainability of natural resources.
 
