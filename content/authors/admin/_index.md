@@ -84,6 +84,6 @@ user_groups:
 - Visitors
 ---
 
-Dr. Dylan Spencer, an assistant professor at South Dakota State University, specializes in criminology with a focus on conservation-related crime. He utilizes spatial and quantitative methods to understand and address issues in this field, emphasizing prevention rather than explanation. Through interdisciplinary research, he seeks to connect criminology with conservation science, providing insights into the relationship between human behavior and environmental damage. 
+Dr. Dylan Spencer, an assistant professor at Georgia Southern University, specializes in criminology with a focus on conservation-related crime. He utilizes spatial and quantitative methods to understand and address issues in this field, emphasizing prevention rather than explanation. Through interdisciplinary research, he seeks to connect criminology with conservation science, providing insights into the relationship between human behavior and environmental damage. 
 
 
