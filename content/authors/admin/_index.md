@@ -14,8 +14,8 @@ role: Assistant Professor of Criminology
 
 # Organizations/Affiliations
 organizations:
-- name: South Dakota State University
-  url: "https://www.sdstate.edu/school-psychology-sociology-and-rural-studies"
+- name: Georgia Southern University
+  #url: "https://www.sdstate.edu/school-psychology-sociology-and-rural-studies"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research areas include conservation criminology and spatial and quantitative methods.
