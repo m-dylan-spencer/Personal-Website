@@ -93,14 +93,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "Statesboro", region = "GA", postcode = "30460", country = "United States", country_code = "US"}
+address = {street = "3160 Southern Dr.", city = "Statesboro", region = "GA", postcode = "30458", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "32.42437492162527", longitude = "-81.78437453112025"}
 
 # Directions for visitors to locate you.
-#directions = "Enter the left entrance (closest to library) of Agricultural Engineering and take the stairs to Room 209."
+directions = "Enter Carroll Building and go to office 1093 on the first floor."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
