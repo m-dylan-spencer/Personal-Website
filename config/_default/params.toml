@@ -97,7 +97,7 @@ address = {street = "", city = "Statesboro", region = "GA", postcode = "30460", 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "32.42446225532588", longitude = "-81.78072863653102"}
+coordinates = {latitude = "32.42437492162527", longitude = "-81.78437453112025"}
 
 # Directions for visitors to locate you.
 #directions = "Enter the left entrance (closest to library) of Agricultural Engineering and take the stairs to Room 209."
