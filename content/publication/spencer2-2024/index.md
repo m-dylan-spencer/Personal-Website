@@ -9,7 +9,7 @@ authors:
 - M. Dylan Spencer
 tags: []
 categories: []
-date: '2024-07-06'
+date: '2024-07-07'
 lastmod: 2020-09-28T23:51:23+02:00
 featured: true
 draft: false
