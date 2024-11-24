@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-01-01T21:51:22.316630Z'
+publishDate: '2024-11-23T21:51:22.316630Z'
 publication_types:
 - 2
 abstract: There is much interdisciplinary research on the relationship between urban parks and crime but very little understanding of why some parks experience more crime compared to other parks. This study integrates ecological perspectives to examine crimes reported to the police during the COVID-19 pandemic. We use open data sources to observe the environmental context and physical site features of 110 parks in Charleston, SC. Our findings suggest site features of parks (e.g., playgrounds and restrooms) have a cumulative effect on crime. Both physical and social environmen- tal variables influence why some parks become “risky facilities.” As city planners embrace greening and other climate-friendly solutions to transform urban communi- ties, research needs to further assess the impact of these policies on crime.
