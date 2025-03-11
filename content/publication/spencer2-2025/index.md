@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Social determinants of health, driving time to trauma hospitals, racial composition, and firearem violence in South Carolina.
+title: Social determinants of health, driving time to trauma hospitals, racial composition, and firearm violence in South Carolina.
 summary: ''
 authors:
 - Hunter M. Boehme
