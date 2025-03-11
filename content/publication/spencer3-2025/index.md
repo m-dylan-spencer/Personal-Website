@@ -1,7 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Policing and corrections in the classroom: Criminal justice students' perceptions of course material and career attractiveness.
+title: Policing and corrections in the classroom
+subtitle: Criminal justice students' perceptions of course material and career attractiveness
 summary: ''
 authors:
 - M. Dylan Spencer
