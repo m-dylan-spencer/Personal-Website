@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   [[experience]]
   title = "Assistant Professor"
   company = "South Dakota State University, School of Psychology, Sociology and Rural Studies"
-  company_url = "https://www.sdstate.edu/school-psychology-sociology-and-rural-studies"
+  company_url = "https://www.sdstate.edu/school-psychology-sociology-rural-studies"
   location = "Brookings, South Dakota"
   date_start = "2022-08-01"
   date_end = "2024-05-01"
