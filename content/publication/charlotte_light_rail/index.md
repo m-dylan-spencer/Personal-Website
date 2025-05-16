@@ -36,3 +36,4 @@ abstract: Objectives- Public transportation systems experience dynamic changes o
 publication: '*Journal of Experimental Criminology*'
 url_pdf: https://drive.google.com/file/d/1aQlqDRyvjmZLlDzlRWC9gbBq2oIWZGQK/view?usp=sharing
 doi: https://doi.org/10.1007/s11292-025-09676-7
+---
