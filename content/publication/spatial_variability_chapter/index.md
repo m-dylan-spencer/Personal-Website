@@ -32,6 +32,6 @@ publication_types:
 - 6
 #abstract: 
 publication: '*The Handbook on Cities and Crime*'
-url_pdf: https://drive.google.com/file/d/151JTwIZE3iE55gC1ObgSektpMzldyjnF/view?usp=sharing
+url_pdf: https://drive.google.com/file/d/1VSDEZQxu33j68w9WEyjrlV2NIjRpUbQw/view?usp=sharing
 doi: https://doi.org/10.4337/9781800375710.00017
 ---
