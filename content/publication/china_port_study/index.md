@@ -10,7 +10,7 @@ authors:
 - Stephen F. Pires
 - Chi-Heng Tsai
 - Ulhas Gondhali
-- Gohar Petrossian
+- Gohar A. Petrossian
 tags: []
 categories: []
 date: '2025-06-20'
