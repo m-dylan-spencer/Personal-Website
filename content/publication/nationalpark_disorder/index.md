@@ -1,6 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-title: Recreation and disarray: Analysis of disorder in U.S. national parks
+title: Recreation and disarray
+subtitle: Analysis of disorder in U.S. national parks
 summary: ''
 authors:
 - Noah D. Cohen
