@@ -1,6 +1,5 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: Recreation and disarray: Analysis of disorder in U.S. national parks
 summary: ''
 authors:
