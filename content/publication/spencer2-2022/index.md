@@ -34,6 +34,6 @@ publication_types:
 - 2
 abstract: This study observes the spatial distribution of robbery using a multi-level framework to further understand the unique contribution of both micro- places and neighborhoods to the spatial variability of crime patterns. Mixed- effects regression models were estimated to determine if the influence of spatial interdependence measured with a spatial lag variable at street segments had a random effect between Chicago’s community areas. The variance parameters guided an exploratory spatial data analysis which revealed clusters of robbery patterns which were larger than crime hot spots and often nested within neighborhoods. We found there is an important distinction between places in Chicago where the spatial transmissibility of robberies is most acutely experienced across entire neighborhoods or within the immediate proximity of certain micro-places.
 publication: '*Crime & Delinquency*'
-url_pdf: https://journals.sagepub.com/doi/10.1177/00111287221140836
+#url_pdf: https://journals.sagepub.com/doi/10.1177/00111287221140836
 doi: https://doi.org/10.1177/00111287221140836
 ---
