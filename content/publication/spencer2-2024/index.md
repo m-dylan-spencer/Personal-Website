@@ -33,6 +33,6 @@ publication_types:
 - 2
 abstract: The spatial relationship between violent crime and alcohol outlets is well documented. Yet, it is unclear whether on- or off-premises alcohol outlets have greater effects on violent crime and whether this varies by interpersonal crimes and off- premises outlet subtype. This study addresses this gap by using both Routine Activities and Social Disorganization Theories. Using census block groups (n = 1,126) in the Bronx, NY, spatial access methods were used to measure violent crimes from 2018 to 2020 (n=28,587) and alcohol outlets from 2020 (n=1,984). Social disorganization measures consisting of various socioeconomic factors and accessibility factors were included. Five models were estimated using a Spatial Lag regression model. A positive direct, indirect, and total effect was observed for liquor, grocery, and drug stores on total violent crime exposure, but on-premise alcohol outlets was not related. Specific types of off-premises alcohol outlets were associated with various violent crimes, with liquor and grocery stores consistently related across all models. On-premises alcohol outlets were not associated with violent crime with the exception of assaults.
 publication: '*Applied Spatial Analysis and Policy*'
-url_pdf: https://link.springer.com/article/10.1007/s12061-024-09589-4
+#url_pdf: https://link.springer.com/article/10.1007/s12061-024-09589-4
 doi: https://doi.org/10.1007/s12061-024-09589-4
 ---
