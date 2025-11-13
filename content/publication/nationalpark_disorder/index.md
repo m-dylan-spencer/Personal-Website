@@ -32,6 +32,6 @@ publication_types:
 - 2
 abstract: One of the best examples of balancing conservation with recreation-based tourism is the United States National Park System. With millions of visits per year in many parks, incidents of disorder are inevitable. Despite the limited amount of past literature examining more formal crime within national parks, to date, no studies have examined incidents of disorder or how these might affect recreation in these public spaces. This study examines over 74,000 incidents of disorder from 2000 to 2023 across four national parks using citation data from the Central Violations Bureau. These incidents were categorized and analyzed descriptively and longitudinally using autoregressive integrated moving average (ARIMA) models. The study finds that disorder is infrequent relative to visitation, with traffic-related citations comprising approximately 66 % of all incidents. In contrast, only about 5 % of citations were directly related to conservation or natural resources. These findings provide an empirical foundation for informing low-cost, prevention-oriented park management strategies.
 publication: '*Journal of Outdoor Recreation and Tourism*'
-url_pdf: https://www.sciencedirect.com/science/article/pii/S2213078025000829
+#url_pdf: https://www.sciencedirect.com/science/article/pii/S2213078025000829
 doi: https://doi.org/10.1016/j.jort.2025.100936
 ---
