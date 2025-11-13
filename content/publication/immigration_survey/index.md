@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Discretion in immigration enforcement:
+title: Discretion in immigration enforcement
 subtitle: How non-federal officers navigate policy mandates and moral judgements
 summary: ''
 authors:
