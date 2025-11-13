@@ -32,6 +32,6 @@ publication_types:
 - 2
 abstract: There is much interdisciplinary research on the relationship between urban parks and crime but very little understanding of why some parks experience more crime compared to other parks. This study integrates ecological perspectives to examine crimes reported to the police during the COVID-19 pandemic. We use open data sources to observe the environmental context and physical site features of 110 parks in Charleston, SC. Our findings suggest site features of parks (e.g., playgrounds and restrooms) have a cumulative effect on crime. Both physical and social environmen- tal variables influence why some parks become “risky facilities.” As city planners embrace greening and other climate-friendly solutions to transform urban communi- ties, research needs to further assess the impact of these policies on crime.
 publication: '*Security Journal*'
-url_pdf: https://link.springer.com/article/10.1057/s41284-024-00453-1
+#url_pdf: https://link.springer.com/article/10.1057/s41284-024-00453-1
 doi: https://doi.org/10.1057/s41284-024-00453-1
 ---
