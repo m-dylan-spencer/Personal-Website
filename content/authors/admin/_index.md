@@ -1,6 +1,6 @@
 ---
 # Display name
-title: M. Dylan Spencer, Ph.D.
+title: Dylan Spencer, Ph.D.
 
 # Username (this should match the folder name)
 authors:
