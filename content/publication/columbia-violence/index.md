@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Further evidence for situational determinants of crime: The role of environmental and geographic features in explaining violence hotspots in Columbia, South America
+title: Further evidence for situational determinants of crime. The role of environmental and geographic features in explaining violence hotspots in Columbia, South America
 summary: ''
 authors:
 - Stephen F. Pires
