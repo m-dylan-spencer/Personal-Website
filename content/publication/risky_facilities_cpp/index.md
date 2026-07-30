@@ -32,5 +32,3 @@ abstract: The risky facilities framework posits that a small subset of locations
 publication: '*Criminology and Public Policy*'
 doi: https://doi.org/10.1111/1745-9133.70033
 ---
-
-
