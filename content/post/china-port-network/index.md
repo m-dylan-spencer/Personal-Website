@@ -18,7 +18,7 @@ links:
     icon: globe
 ---
 
-**Spencer, M. D.**, Petrossian, G. A., & Pires, S. F. (2026, March 4). Far from random, China's global port network is clustering near the world's riskiest trade routes. *The Conversation*.
+Spencer, M. D., Petrossian, G. A., & Pires, S. F. (2026, March 4). Far from random, China's global port network is clustering near the world's riskiest trade routes. *The Conversation*.
 
 * [Read the English article](https://doi.org/10.64628/AAI.35wmtkjvg)
 * [Read the French edition](https://doi.org/10.64628/AAK.3scf3aja4)
