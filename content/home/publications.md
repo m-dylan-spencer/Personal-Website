@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
 active = true     # Set to true to display on homepage
-weight = 20       # Positioned before News (weight = 30)
+weight = 30       # Positioned before News (weight = 40)
 
 title = "Recent Publications"
 subtitle = ""
