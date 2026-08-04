@@ -2,7 +2,7 @@
 title: "Far from random, China's global port network is clustering near the world's riskiest trade routes"
 date: 2026-03-04
 authors:
-  - admin
+  - M. Dylan Spencer
   - G. A. Petrossian
   - S. F. Pires
 publication: "The Conversation"
