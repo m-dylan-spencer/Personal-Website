@@ -1,25 +1,40 @@
 ---
-title: "Consulting & Applied Research"
-subtitle: "Expert spatial analysis, crime science, and public safety advisory services."
-summary: "Advisory and analytical consulting services specializing in spatial criminology, transit safety, and place-based crime prevention."
+title: "Spatial & Quantitative Consulting"
+subtitle: "Applied spatial analysis, crime mapping, and quantitative research advisory services."
+summary: "Advisory and analytical services specializing in spatial criminology, geographic risk modeling, micro-place analysis, and quantitative research design."
 type: page
 ---
 
-### Applied Expertise & Advisory Services
+### Applied Spatial & Quantitative Expertise
 
-I provide specialized analytical and advisory services for government agencies, transit authorities, urban planning organizations, and legal counsel. My consulting work translates peer-reviewed spatial criminology and environmental crime science into actionable safety solutions.
+I offer specialized analytical, statistical, and geographic advisory services for public agencies, research institutes, transit authorities, and conservation organizations. 
+
+My consulting practice translates advanced **spatial analysis, quantitative modeling, and environmental crime science** into empirical, data-driven solutions. I specialize in leveraging spatial methods—using tools like **R, ArcGIS, and QGIS**—to evaluate risk, identify geographic pattern stability, and model built and natural environments.
 
 ---
 
-### Key Focus Areas
+### Core Service Areas
 
-* **Spatial & Geographic Risk Analysis:** Micro-place mapping, crime pattern analysis, and environmental risk assessment for municipal planning and commercial developments.
-* **Transit & Infrastructure Safety:** Empirical evaluations of safety perceptions, passenger security, and environmental interventions across transit networks.
-* **Place-Based Crime Prevention:** Strategic design and evaluation of Situational Crime Prevention (SCP) and Crime Prevention Through Environmental Design (CPTED) programs.
-* **Litigation & Policy Support:** Data-driven reporting, technical analysis, and expert testimony regarding spatial crime trends and premises safety.
+* **Spatial Risk Modeling & Geographic Analysis:**
+  * Micro-place spatial analysis, crime pattern mapping, and dynamic risk modeling.
+  * Evaluating built environment risk factors, risky facility profiles, and urban land-use features.
+  * Point-pattern and spatio-temporal cluster analysis across urban, transit, and rural landscapes.
+
+* **Transit, Infrastructure, & Built Environment Analytics:**
+  * Empirical risk assessment and crime pattern evaluation across transit corridors, light rail networks, and public hubs.
+  * Spatial evaluations of urban greenways, parks, street lighting upgrades, and public infrastructure.
+
+* **Conservation & Environmental Risk Analytics:**
+  * Spatial analysis of illegal natural resource extraction, wildlife poaching, and marine/IUU fishing risk.
+  * Assessing spatial vulnerability across marine, parkland, and protected land environments.
+
+* **Quantitative Research Design & Statistical Modeling:**
+  * Program and intervention evaluation using quasi-experimental and longitudinal time-series designs.
+  * Advanced statistical modeling (Stata, R) for social science and environmental datasets.
+  * Systematic reviews and quantitative meta-analyses.
 
 ---
 
 ### Inquiries
 
-For consulting inquiries, technical reports, or speaking engagements, please reach out directly via email at [your-email@university.edu](mailto:your-email@university.edu).
+For technical consultations, spatial modeling projects, or collaborative research contracts, please contact me directly at [mspencer@georgiasouthern.edu](mailto:mspencer@georgiasouthern.edu).
