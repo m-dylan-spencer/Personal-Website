@@ -1,11 +1,11 @@
 +++
 # A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+# This section displays recent posts from `content/publication/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+active = true     # Set to true to display on homepage
+weight = 20       # Positioned before News (weight = 30)
 
 title = "Recent Publications"
 subtitle = ""
@@ -14,7 +14,7 @@ subtitle = ""
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
-  # Choose how much pages you would like to display (0 = all pages)
+  # Choose how many pages you would like to display (0 = all pages)
   count = 5
   
   # Choose how many pages you would like to offset by
@@ -40,31 +40,16 @@ subtitle = ""
   view = 2
   
 [design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-    
   # Background color.
   # color = "navy"
   
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
 [advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
+  # Custom CSS. 
+  css_style = ""
+  
+  # CSS class.
+  css_class = ""
 +++
-
-
