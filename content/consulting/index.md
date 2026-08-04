@@ -30,7 +30,7 @@ My consulting practice translates advanced **spatial analysis, quantitative mode
 
 * **Quantitative Research Design & Statistical Modeling:**
   * Program and intervention evaluation using quasi-experimental and longitudinal time-series designs.
-  * Advanced statistical modeling (Stata, R) for social science and environmental datasets.
+  * Advanced statistical modeling (R) for social science and environmental datasets.
   * Systematic reviews and quantitative meta-analyses.
 
 ---
