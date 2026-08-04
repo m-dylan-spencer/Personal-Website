@@ -4,7 +4,7 @@ widget: pages
 headless: true
 
 # Position on homepage
-weight: 20
+weight: 50
 
 title: News & Updates
 subtitle: Recent public scholarship, media coverage, and announcements.
