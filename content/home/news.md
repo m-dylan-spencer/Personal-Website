@@ -11,7 +11,7 @@ subtitle: Recent public scholarship, media coverage, and announcements.
 
 content:
   page_type: post
-  count: 5
+  count: 3
 
 design:
   columns: '2'
