@@ -2,6 +2,8 @@
 title: "Spatial & Quantitative Consulting"
 subtitle: "Applied spatial analysis, crime mapping, and quantitative research advisory services."
 summary: "Advisory and analytical services specializing in spatial criminology, geographic risk modeling, micro-place analysis, and quantitative research design."
+share: false      # <--- Disables social share buttons on this page
+profile: false    # <--- Disables author profile box if present
 type: page
 ---
 
