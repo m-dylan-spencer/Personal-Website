@@ -16,7 +16,7 @@ I offer specialized analytical, statistical, and geographic advisory services fo
 * **Spatial Risk Modeling:** Micro-place mapping, land-use risk analysis, and crime pattern modeling.
 * **Transit & Built Environment Analytics:** Empirical risk assessment for transit networks, urban greenways, and public infrastructure.
 * **Conservation & Environmental Risk:** Spatial modeling for natural resource protection, illegal fishing, and wildlife risk.
-* **Quantitative Research Design:** Advanced statistical modeling (R, Stata) and quasi-experimental program evaluation.
+* **Quantitative Research Design:** Advanced statistical modeling (R) and quasi-experimental program evaluation.
 
 <p style="text-align: center; margin-top: 1.5rem;">
   <a class="btn btn-primary btn-lg" href="consulting/">
