@@ -5,8 +5,6 @@ authors:
   - C. F. Lehman
 publication: "The Atlantic"
 summary: "*The Atlantic* essay referencing research on transit safety by Spencer, Schnell, & DeWitt (2025)."
-links:
-  - name: The Atlantic
 ---
 
 Lehman, C. F. (2025, October 16). The other reason Americans don't use mass transit. *The Atlantic*. (References Spencer, Schnell, & DeWitt, 2025).
