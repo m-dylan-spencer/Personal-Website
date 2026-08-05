@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Consulting"
-  url = "consulting/"
+  url = "#consulting"
   weight = 50
 
 [[main]]
