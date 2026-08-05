@@ -3,6 +3,7 @@
 widget: "blank"  # Uses standard blank layout for maximum design flexibility
 active: true     # Set to true to display on homepage
 weight: 45
+id: "consulting" # <--- THIS CREATES THE #consulting ANCHOR LINK
 
 title: "Spatial & Quantitative Consulting"
 subtitle: "Applied spatial analysis, crime mapping, and quantitative research advisory services."
