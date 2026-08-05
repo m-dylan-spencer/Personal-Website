@@ -1,8 +1,3 @@
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#   desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
-
 [[main]]
   name = "Home"
   url = "#about"
@@ -34,6 +29,6 @@
   weight = 60
 
 #[[main]]
-  #name = "<i class=\"fab fa-github\"></i> GitHub"
-  3url = "https://github.com/mdylanspencer"
-  #weight = 60
+ # name = "<i class=\"fab fa-github\"></i> GitHub"
+  #url = "https://github.com/mdylanspencer"
+  #weight = 70
