@@ -10,8 +10,8 @@ authors:
 - Thanaphon Nunphong
 tags: []
 categories: []
-date: '2026-01-01'
-lastmod: 2026-01-01T00:00:00Z
+date: '2026-10-05'
+lastmod: 2026-10-05T00:00:00Z
 featured: true
 draft: false
 
