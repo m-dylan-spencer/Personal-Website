@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Eyes in the sky"
-subtitle: 'a descriptive evaluation of police drone deployments in Portland, Oregon'
+subtitle: 'A descriptive evaluation of police drone deployments in Portland, Oregon'
 summary: ''
 authors:
 - Nathan T. Connealy
