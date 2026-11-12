@@ -7,7 +7,7 @@ summary: ''
 authors:
 - M. Dylan Spencer
 - Noah D. Cohen
-- Nate Connealy
+- Nate T. Connealy
 tags: []
 categories: []
 date: '2026-06-01'
